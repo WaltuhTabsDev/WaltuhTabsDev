@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tabby1527
+- 👀 I’m a dev Windows NT and more
+- 🌱 i working in coding My Os
