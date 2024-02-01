@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Tabby1527
-- 👀 I’m a C++ Dev
+- 👀 I’m a Dev (Lua,Godot,C,etc!)
 - 🌱 I love to programming games and more
